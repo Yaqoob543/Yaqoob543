@@ -8,8 +8,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <img align="right" class="GIF" alt="GIF" src="/ExemplaryFairFeline-max-1mb.gif" width="100px"/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaqoob543" alt="yaqoob543" /></a> </p>
-
 - 🔭 I’m currently working on **Javascript Projects**
 
 - 🌱 I’m currently learning **Javascript , React**
